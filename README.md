@@ -25,3 +25,5 @@
 ```
 
 - Após iniciar os containers basta acessar o endpoint http://localhost:3333/ para receber o seu oi do Goku :smile:.
+
+Artigo explicativo de [Claudio](https://medium.com/javascript-tutorial/criando-uma-api-nodejs-com-docker-99520a6c2fe4)
